@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(112, 183, 241);
+}
+
+
+form{
+    text-align: center;
+    border: 5px solid red;
+    width: 25%;
+    margin: auto;
+    border-radius: 5px;
+    background-color: rgb(123, 243, 67);
+
+}
